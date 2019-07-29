@@ -1,0 +1,1108 @@
+[2019-07-19T15:39:46.431] [ERROR] default - TypeError: index is not a function
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:28
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:34:12
+[2019-07-19T15:40:33.788] [ERROR] default - TypeError: index is not a function
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:28
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:34:12
+[2019-07-19T15:41:35.047] [ERROR] default - TypeError: index is not a function
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:10:28
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:34:12
+[2019-07-19T15:41:46.319] [ERROR] default - TypeError: index is not a function
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:10:28
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:34:12
+[2019-07-19T16:08:32.193] [ERROR] default - TypeError: index is not a function
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:28
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:34:12
+[2019-07-19T16:08:46.336] [ERROR] default - TypeError: index is not a function
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:28
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:34:12
+[2019-07-19T16:14:47.522] [ERROR] default - TypeError: index is not a function
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:28
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:34:12
+[2019-07-19T16:14:48.451] [ERROR] default - TypeError: index is not a function
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:28
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:34:12
+[2019-07-19T16:15:23.760] [ERROR] default - TypeError: index is not a function
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:28
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:34:12
+[2019-07-19T16:17:51.050] [ERROR] default - TypeError: index is not a function
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:28
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:34:12
+[2019-07-19T16:18:33.181] [ERROR] default - ReferenceError: SafeRequest is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:4:25)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:18:33.920] [ERROR] default - ReferenceError: SafeRequest is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:4:25)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:18:34.666] [ERROR] default - ReferenceError: SafeRequest is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:4:25)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:19:22.569] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:19:23.227] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:19:23.860] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:19:24.479] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:22:44.361] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:22:45.079] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:22:45.947] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:23:49.780] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:23:50.394] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:23:50.919] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:25:08.090] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:25:08.789] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:25:27.677] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:25:29.456] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:26:00.579] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:26:05.409] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:27:52.656] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:27:53.293] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:27:54.170] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:27:58.258] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:27:58.773] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:27:58.924] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:27:59.049] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:27:59.184] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:27:59.292] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:27:59.421] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:28:26.908] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:28:27.579] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:28:28.014] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:28:53.306] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:28:54.049] [ERROR] default - ReferenceError: options is not defined
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:5:55)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:9:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-19T16:34:39.279] [ERROR] default - SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:54
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-07-19T16:34:40.337] [ERROR] default - SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:54
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-07-19T16:34:41.219] [ERROR] default - SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:54
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-07-19T16:34:41.871] [ERROR] default - SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:54
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-07-23T17:00:51.957] [ERROR] default - TypeError: Cannot read property 'name' of undefined
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:19:64
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-07-23T17:02:14.820] [ERROR] default - TypeError: Cannot read property 'name' of undefined
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:19:64
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-07-23T17:08:51.393] [ERROR] default - TypeError: Cannot read property 'params' of undefined
+    at IndexService.createData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:21:22)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:22:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-23T17:08:52.216] [ERROR] default - TypeError: Cannot read property 'params' of undefined
+    at IndexService.createData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:21:22)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:22:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-23T17:08:52.912] [ERROR] default - TypeError: Cannot read property 'params' of undefined
+    at IndexService.createData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:21:22)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:22:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-23T17:10:14.216] [ERROR] default - TypeError: Cannot read property 'params' of undefined
+    at IndexService.createData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:21:22)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:22:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-23T17:10:14.938] [ERROR] default - TypeError: Cannot read property 'params' of undefined
+    at IndexService.createData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:21:22)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:22:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-23T17:10:15.584] [ERROR] default - TypeError: Cannot read property 'params' of undefined
+    at IndexService.createData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:21:22)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:22:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-23T17:10:27.813] [ERROR] default - TypeError: Cannot read property 'params' of undefined
+    at IndexService.createData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:21:22)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:22:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-23T17:10:59.111] [ERROR] default - ReferenceError: options is not defined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:17:17)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:10:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:12:32.288] [ERROR] default - ReferenceError: options is not defined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:17:17)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:10:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:13:21.774] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:16:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:13:22.541] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:16:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:14:40.255] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:16:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:14:40.864] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:16:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:14:43.068] [ERROR] default - TypeError: Cannot read property 'params' of undefined
+    at IndexService.createData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:22:22)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:22:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-23T17:14:48.731] [ERROR] default - TypeError: Cannot read property 'params' of undefined
+    at IndexService.createData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:22:22)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:22:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-23T17:17:20.880] [ERROR] default - TypeError: Cannot read property 'params' of undefined
+    at IndexService.createData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:22:22)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:22:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:5:15)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+[2019-07-23T17:17:24.632] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:16:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:17:43.893] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:16:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:17:44.732] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:16:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:29:07.524] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:16:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:32:43.930] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:16:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:33:52.141] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:16:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:34:40.160] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:17:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:35:25.184] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:17:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:36:34.782] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:17:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:37:18.951] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:17:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:37:19.634] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:17:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:37:19.824] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:17:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:37:19.993] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:17:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:37:20.155] [ERROR] default - TypeError: Cannot read property 'method' of undefined
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:17:25)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+[2019-07-23T17:40:50.103] [ERROR] default - TypeError: Request with GET/HEAD method cannot have body
+    at new Request (/Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:1193:10)
+    at /Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:1403:19
+    at new Promise (<anonymous>)
+    at fetch (/Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:1401:9)
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:16:7)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+[2019-07-23T17:40:52.631] [ERROR] default - TypeError: Request with GET/HEAD method cannot have body
+    at new Request (/Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:1193:10)
+    at /Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:1403:19
+    at new Promise (<anonymous>)
+    at fetch (/Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:1401:9)
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:16:7)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+[2019-07-23T17:43:25.308] [ERROR] default - TypeError: Request with GET/HEAD method cannot have body
+    at new Request (/Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:1193:10)
+    at /Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:1403:19
+    at new Promise (<anonymous>)
+    at fetch (/Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:1401:9)
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:20:7)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+[2019-07-23T17:43:48.762] [ERROR] default - TypeError: Request with GET/HEAD method cannot have body
+    at new Request (/Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:1193:10)
+    at /Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:1403:19
+    at new Promise (<anonymous>)
+    at fetch (/Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:1401:9)
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:20:7)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+[2019-07-23T17:44:11.969] [ERROR] default - TypeError: Request with GET/HEAD method cannot have body
+    at new Request (/Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:1193:10)
+    at /Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:1403:19
+    at new Promise (<anonymous>)
+    at fetch (/Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:1401:9)
+    at Promise (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:16:7)
+    at new Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/datamesh/Desktop/koademo/utils/SafeRequest.js:9:12)
+    at IndexService.getData (/Users/datamesh/Desktop/koademo/services/IndexServices.js:16:24)
+    at /Users/datamesh/Desktop/koademo/controllers/IndexController.js:11:34
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:186:18)
+[2019-07-23T17:57:11.276] [ERROR] default - { FetchError: invalid json response body at http://localhost:8888/basic/web/index.php?r=books/create reason: Unexpected token < in JSON at position 0
+    at /Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:272:32
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  message:
+   'invalid json response body at http://localhost:8888/basic/web/index.php?r=books/create reason: Unexpected token < in JSON at position 0',
+  type: 'invalid-json' }
+[2019-07-23T17:57:12.531] [ERROR] default - { FetchError: invalid json response body at http://localhost:8888/basic/web/index.php?r=books/create reason: Unexpected token < in JSON at position 0
+    at /Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:272:32
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  message:
+   'invalid json response body at http://localhost:8888/basic/web/index.php?r=books/create reason: Unexpected token < in JSON at position 0',
+  type: 'invalid-json' }
+[2019-07-23T18:05:52.707] [ERROR] default - { FetchError: invalid json response body at http://localhost:8888/basic/web/index.php?r=books/index reason: Unexpected end of JSON input
+    at /Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:272:32
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  message:
+   'invalid json response body at http://localhost:8888/basic/web/index.php?r=books/index reason: Unexpected end of JSON input',
+  type: 'invalid-json' }
+[2019-07-23T18:06:43.272] [ERROR] default - { FetchError: invalid json response body at http://localhost:8888/basic/web/index.php?r=books/index reason: Unexpected end of JSON input
+    at /Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:272:32
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  message:
+   'invalid json response body at http://localhost:8888/basic/web/index.php?r=books/index reason: Unexpected end of JSON input',
+  type: 'invalid-json' }
+[2019-07-23T18:06:44.517] [ERROR] default - { FetchError: invalid json response body at http://localhost:8888/basic/web/index.php?r=books/index reason: Unexpected end of JSON input
+    at /Users/datamesh/Desktop/koademo/node_modules/node-fetch/lib/index.js:272:32
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  message:
+   'invalid json response body at http://localhost:8888/basic/web/index.php?r=books/index reason: Unexpected end of JSON input',
+  type: 'invalid-json' }
+[2019-07-25T16:23:15.718] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
+[2019-07-25T16:24:10.293] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
+[2019-07-25T16:24:12.449] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
+[2019-07-25T16:27:02.384] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
+[2019-07-25T16:27:53.481] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
+[2019-07-25T16:27:54.361] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
+[2019-07-25T16:27:55.056] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
+[2019-07-25T16:27:55.599] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
+[2019-07-25T16:29:33.963] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
+[2019-07-25T16:29:34.568] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
+[2019-07-25T16:30:53.219] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
+[2019-07-25T16:30:53.865] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
+[2019-07-25T16:32:22.578] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
+[2019-07-25T16:32:23.416] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
+[2019-07-25T16:47:44.764] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
+[2019-07-25T16:47:50.282] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
+[2019-07-25T16:47:51.633] [ERROR] default - { BadRequestError: Malicious Path
+    at resolvePath (/Users/datamesh/Desktop/koademo/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/datamesh/Desktop/koademo/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/datamesh/Desktop/koademo/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:196:14)
+    at Router._lookup (/Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/datamesh/Desktop/koademo/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/datamesh/Desktop/koademo/middlewares/error.js:13:13)
+    at dispatch (/Users/datamesh/Desktop/koademo/node_modules/koa-compose/index.js:42:32) message: 'Malicious Path' }
